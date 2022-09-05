@@ -1,3 +1,8 @@
+
+# numpy  exercises 
+<a href="https://colab.research.google.com/github/hiren14/numpy/blob/main/numpy_question.ipynb">
+                                                                                                     
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 # Create a 5x5 matrix with values 1,2,3,4 just below the diagonal (★☆☆)
 
 # Multiply a 5x3 matrix by a 3x2 matrix (real matrix product) (★☆☆)
